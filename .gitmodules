@@ -10,3 +10,6 @@
 [submodule "nubomedia-documentation"]
 	path = nubomedia-documentation
 	url = https://github.com/nubomedia/nubomedia-documentation
+[submodule "nubomedia-media-server"]
+	path = nubomedia-media-server
+	url = https://github.com/nubomedia/nubomedia-media-server
