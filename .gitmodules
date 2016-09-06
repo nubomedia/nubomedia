@@ -16,3 +16,6 @@
 [submodule "nubomedia-sdks"]
 	path = nubomedia-sdks
 	url = https://github.com/nubomedia/nubomedia-sdks
+[submodule "nubomedia-connectors"]
+	path = nubomedia-connectors
+	url = https://github.com/nubomedia/nubomedia-connectors
