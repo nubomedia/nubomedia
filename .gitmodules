@@ -13,3 +13,6 @@
 [submodule "nubomedia-media-server"]
 	path = nubomedia-media-server
 	url = https://github.com/nubomedia/nubomedia-media-server
+[submodule "nubomedia-sdks"]
+	path = nubomedia-sdks
+	url = https://github.com/nubomedia/nubomedia-sdks
