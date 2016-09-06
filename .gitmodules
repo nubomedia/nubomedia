@@ -4,3 +4,6 @@
 [submodule "nubomedia-admin"]
 	path = nubomedia-admin
 	url = https://github.com/nubomedia/nubomedia-admin
+[submodule "nubomedia-demonstrators"]
+	path = nubomedia-demonstrators
+	url = https://github.com/nubomedia/nubomedia-demonstrators
