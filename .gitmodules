@@ -7,3 +7,6 @@
 [submodule "nubomedia-demonstrators"]
 	path = nubomedia-demonstrators
 	url = https://github.com/nubomedia/nubomedia-demonstrators
+[submodule "nubomedia-documentation"]
+	path = nubomedia-documentation
+	url = https://github.com/nubomedia/nubomedia-documentation
