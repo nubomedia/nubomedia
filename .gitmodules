@@ -1,3 +1,6 @@
 [submodule "nubomedia-controller"]
 	path = nubomedia-controller
 	url = https://github.com/nubomedia/nubomedia-controller
+[submodule "nubomedia-admin"]
+	path = nubomedia-admin
+	url = https://github.com/nubomedia/nubomedia-admin
