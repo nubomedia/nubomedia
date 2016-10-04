@@ -1,9 +1,9 @@
 [![][NUBOMEDIA Logo]][NUBOMEDIA]
 
-Copyright © 2016 [NUBOMEDIA]. Licensed under [LGPL v2.1 License].
+Copyright © 2016 [NUBOMEDIA]
 
-developer-guidelines
-====================
+NUBOMEDIA
+=========
 
 This is an integration repository containing all NUBOMEDIA modules.
 
@@ -52,14 +52,7 @@ Issues and bug reports should be posted to [GitHub Issues].
 Licensing and distribution
 --------------------------
 
-Software associated to NUBOMEDIA is provided as open source under GNU Library or
-"Lesser" General Public License, version 2.1 (LGPL-2.1). Please check the
-specific terms and conditions linked to this open source license at
-http://opensource.org/licenses/LGPL-2.1. Please note that software derived as a
-result of modifying the source code of NUBOMEDIA software in order to fix a bug
-or incorporate enhancements is considered a derivative work of the product.
-Software that merely uses or aggregates (i.e. links to) an otherwise unmodified
-version of existing software is not considered a derivative work.
+For licensing and distribution, please refer to each of the children submodules.
 
 Contribution policy
 -------------------
@@ -90,12 +83,11 @@ Support
 The NUBOMEDIA community provides support through the [NUBOMEDIA Public Mailing List].
 
 [Development Guide]: http://nubomedia.readthedocs.org/
-[GitHub Issues]: https://github.com/nubomedia/developer-guidelines/issues
+[GitHub Issues]: https://github.com/nubomedia/bugtracker/issues
 [GitHub NUBOMEDIA Group]: https://github.com/nubomedia
-[LGPL v2.1 License]: http://www.gnu.org/licenses/lgpl-2.1.html
 [MkDocs]: http://www.mkdocs.org/
 [NUBOMEDIA Logo]: http://www.nubomedia.eu/sites/default/files/nubomedia_logo-small.png
 [NUBOMEDIA Twitter]: https://twitter.com/nubomedia
 [NUBOMEDIA Public Mailing list]: https://groups.google.com/forum/#!forum/nubomedia-dev
 [NUBOMEDIA]: http://www.nubomedia.eu
-[Python]: https://www.python.org
+
