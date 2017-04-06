@@ -19,6 +19,3 @@
 [submodule "nubomedia-connectors"]
 	path = nubomedia-connectors
 	url = https://github.com/nubomedia/nubomedia-connectors
-[submodule "additional-documentation"]
-	path = additional-documentation
-	url = https://github.com/nubomedia/additional-documentation
